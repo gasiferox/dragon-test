@@ -1,3 +1,3 @@
-#Preuba del codigo dragon en python
+# Prueba del codigo dragon en python
 
-##Continuamos con la prueba
+## Continuamos con la prueba
